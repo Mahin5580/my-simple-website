@@ -7,3 +7,7 @@ h2{
     text-align: center;
     color: green;
 }
+ol{
+    text-underline-position: below;
+    font-weight: bold;
+}
